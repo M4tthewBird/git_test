@@ -1,2 +1,4 @@
 
 Adding some text
+
+Testing messaging with VS
